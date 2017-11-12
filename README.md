@@ -1,3 +1,3 @@
 # DataStructures
 
-See eah folder README for detail about the programs
+See each folder's README for details.
