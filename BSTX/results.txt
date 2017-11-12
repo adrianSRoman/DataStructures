@@ -1,0 +1,13 @@
+Scores from p3 for You need to create an authors.csv file!!!! No one will receive credit for this assignment
+
+Addresses used: /home/asroman/ECS60/p3/Test@ucdavis.edu
+ 
+BSTX.cpp operation testing:
+Height: OK
+Sum: OK
+Ancestor found: OK
+Ancestor not found: OK
+Highest Full: OK
+Deepest Full: OK
+
+BSTX.cpp score: 10
